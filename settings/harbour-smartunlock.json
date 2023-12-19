@@ -1,0 +1,15 @@
+{
+    "translation_catalog" : "harbour-smartunlock",
+    "entries": [
+        {
+            "path": "system_settings/system/smartunlock",
+            "title": "Smart Unlock",
+            "type": "page",
+            "icon": "image://theme/icon-m-device-lock",
+            "order": 500,
+            "params": {
+                "source": "/usr/share/harbour-smartunlock/settings/SmartUnlockAppSettings.qml"
+            }
+        }
+    ]
+}
